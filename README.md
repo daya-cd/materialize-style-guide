@@ -21,4 +21,4 @@ Run `gulp` and start coding.
 Demo
 -----
 
-https://daya-cd.github.io/materialize-style-guide/ [https://daya-cd.github.io/materialize-style-guide/]
+https://daya-cd.github.io/materialize-style-guide/
