@@ -1,5 +1,5 @@
 # Materialize-style-guide
--------------------------
+
 Material css [http://materializecss.com/]
 Frontend workflow with [Gulp](https://github.com/gulpjs/gulp), [browser sync](https://www.browsersync.io/) 
 
@@ -18,3 +18,7 @@ How to use
 Run `gulp` and start coding.
 
 
+Demo
+-----
+
+https://daya-cd.github.io/materialize-style-guide/ [https://daya-cd.github.io/materialize-style-guide/]
