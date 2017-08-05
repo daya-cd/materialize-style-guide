@@ -22,3 +22,11 @@ Demo
 -----
 
 https://daya-cd.github.io/materialize-style-guide/
+
+Angular directive for Materialize
+---------------------------------
+
+
+https://krescruz.github.io/angular-materialize/#!
+
+
